@@ -18,8 +18,8 @@
 
 考虑线性同余方程组 $
 \begin{cases}
-				x\equiv a_0\pmod {a}\\
-				x\equiv b_0\pmod {b}\\
+	x\equiv a_0\pmod {a}\\
+	x\equiv b_0\pmod {b}
 \end{cases}
 $,
 
