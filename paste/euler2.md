@@ -30,7 +30,7 @@
 
 **引理 2**：$\forall ar_i,ar_j(i\ne j)\in B$，$ar_i\not\equiv ar_j\pmod m$.
 
-**证明**：假设 $\exist ar_i,ar_j(i\ne j)\in B$，$ar_i\equiv ar_j\pmod m$.
+**证明**：假设 $\exists ar_i,ar_j(i\ne j)\in B$，$ar_i\equiv ar_j\pmod m$.
 
 由于 $\gcd(a,m)=1$，故 $r_i\equiv r_j\pmod m$，矛盾。
 
