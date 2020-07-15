@@ -18,12 +18,12 @@
 
 分别任取 $S(a),S(b)$ 中的元素 $a_0,b_0$.（ $\gcd(a,b)=1$ ）
 
-考虑线性同余方程组 $
-\begin{cases}
-	x\equiv a_0\pmod {a}\\
-	x\equiv b_0\pmod {b}
-\end{cases}
-$,
+考虑线性同余方程组 $\left\{
+\begin{aligned}
+				x\equiv a_0\pmod {a}\\
+				x\equiv b_0\pmod {b}
+\end{aligned}
+\right.$,
 
 则有唯一解 $x\equiv c_0\pmod {ab}$.
 
