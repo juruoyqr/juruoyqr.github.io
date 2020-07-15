@@ -1,3 +1,17 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
+# 欧拉定理证明
+
 **一些定义：**
 
 **剩余类**：集合 $\{x\mid x\equiv a\pmod m\}$ 称为模 $m$ 的一个剩余类，记为 $ \overline{a}$.	
